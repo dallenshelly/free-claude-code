@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A powerful batch script that provides free access to multiple AI coding models through Claude Code interface, running locally via Ollama.
+A powerful batch script that provides free access to multiple AI coding models through Claude Code interface, running via Ollama.
 
 ## ✨ Features
 
