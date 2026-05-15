@@ -188,7 +188,8 @@ This script is for educational purposes. Ensure you comply with the terms of ser
 ```batch
 # Download and run
 git clone https://github.com/dallenshelly/free-claude-code.git
-claude code.bat
+cd free-claude-code
+claude code.ba
 ```
 
 **Enjoy your free AI coding assistant!** 🎉
